@@ -371,3 +371,11 @@ img {
   .ex{
     font-size: 20px;
   }
+  .code {
+    font-family: Courier, monospace;
+    font-style: italic; 
+}
+pre {
+    display: block;              
+}
+
