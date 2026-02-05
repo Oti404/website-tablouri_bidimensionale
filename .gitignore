@@ -1,0 +1,14 @@
+dxs# Fișiere de sistem
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+*.swp
+
+*.log
+*.bak
+
+config_secret.json
+
+*.private.docx
